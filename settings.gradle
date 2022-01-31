@@ -1,0 +1,2 @@
+rootProject.name = "Group4 BMI"
+include ':app'
